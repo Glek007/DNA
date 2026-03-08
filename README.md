@@ -1,2 +1,2 @@
 # DNA
-Эта программа позволяет создавать цветную, случайную последовательность ДНК длинны которую ввёл пользователь в начале при запуске программы! 🤠 
+This program allows you to create a colored, random DNA sequence of the length that the user entered at the beginning when starting the program! 🤠 
