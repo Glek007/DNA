@@ -150,4 +150,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 💬 Feedback
 
 If you have any questions or just want to say hi, feel free to reach out!
-Made with ❤️ by [Glek007](https://github.com/Glek007), Lonewolf239
+Made with ❤️ by [Glek007](https://github.com/Glek007), Lonewolf239!
